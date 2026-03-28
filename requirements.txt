@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 streamlit==1.36.0
 pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.7.2
+=======
+streamlit==1.30.0
+pandas
+numpy
+scikit-learn
+>>>>>>> 62ab917 (Added deployment fixes (runtime.txt + requirements))

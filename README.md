@@ -27,6 +27,9 @@ An AI-powered web application that predicts delivery time using a Random Forest 
   - Preparation Time
   - Courier Experience
 
+## 🚀 Live Demo
+  -https://delivery-time-predictor-mqfuyzdkouswwgb3yrddjr.streamlit.app/
+
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
